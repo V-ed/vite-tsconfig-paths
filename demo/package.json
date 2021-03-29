@@ -7,18 +7,18 @@
     "test": "sirv dist"
   },
   "dependencies": {
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@svitejs/vite-plugin-svelte": "^0.11.1",
-    "@types/node": "^14.14.35",
-    "@types/react": "^16.9.53",
-    "@types/react-dom": "^16.9.8",
-    "@vitejs/plugin-react-refresh": "^1.0.0",
-    "sirv-cli": "^1.0.8",
-    "typescript": "^4.1.3",
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.5",
+    "@types/node": "^14.14.37",
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.3",
+    "@vitejs/plugin-react-refresh": "^1.3.1",
+    "sirv-cli": "^1.0.11",
+    "typescript": "^4.2.3",
     "vite": "latest",
-    "vite-tsconfig-paths": "^2.3.0"
+    "vite-tsconfig-paths": "^2.4.0"
   }
 }
